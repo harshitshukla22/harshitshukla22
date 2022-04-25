@@ -6,6 +6,6 @@
 
 👯 I’m looking to collaborate on any interesting ideas. 
 
-💬 Ask me about HTML, CSS, JS(ReactJS), C/C++, Python(Django)
+💬 Ask me about HTML, CSS, JS(ReactJS), C/C++, Python
 
 📫 How to reach me : https://www.linkedin.com/in/harshit-shukla-2103b0192/
