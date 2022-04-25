@@ -1,6 +1,6 @@
 ### Hi there👋 , I'm @harshitshukla22
 
-👀 I’m interested in WebDev & Open Source Projects 
+👀 I’m interested in Open Source Projects & WebDev
 
 🌱 I’m currently learning Full-Stack Development (MERN)
 
